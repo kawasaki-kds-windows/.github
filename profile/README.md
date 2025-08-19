@@ -1,4 +1,4 @@
-# 🟢 Kawasaki KDS – Motorcycle Diagnostic System for Windows
+# 🏍 Kawasaki KDS – Motorcycle Diagnostic System for Windows
 
 📌 **About Kawasaki KDS (Windows)**  
 The **Kawasaki Diagnostic System (KDS)** is the official diagnostic software for **Kawasaki motorcycles and scooters**, enabling mechanics and riders to perform **ECU scans, error code reading/clearing, live sensor monitoring, and service resets** directly from a Windows PC.  
